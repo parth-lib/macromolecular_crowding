@@ -3,7 +3,7 @@
 
 This repository contains the Python code used for image processing, droplet tracking and quantitative analysis in the research work:
 
-**Crowding Agents Mitigate Fusion and Enable Genotype Preservation in Fuel-Dependent Synthetic Cells**
+**Preserving Identity in an Ecosystem of Synthetic Cells by Inhibiting Fusion with a Macromolecular Crowder**
 
 **Authors:** Parth Kumar<sup>1</sup>, Francesco Busato<sup>1</sup>, Leonie Kauling<sup>1</sup>, Job Boekhoven<sup>#,1</sup>, and Nils Bäumer<sup>#,1</sup>
 
